@@ -24,45 +24,6 @@ A modern, animated portfolio website built with Next.js, Tailwind CSS, and Frame
 - Node.js 18+ 
 - npm or yarn or pnpm
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Sibi7Antony/portfolio.git
-cd portfolio
-```
-
-2. Install all dependencies:
-```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
-```
-
-3. Run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Dependencies
-
-The following packages will be installed:
-
-- `next` - React framework
-- `react` & `react-dom` - React library
-- `framer-motion` - Animation library
-- `tailwindcss` - CSS framework
-- `lucide-react` - Icon library
-- `typescript` - TypeScript support
-- `@types/react` & `@types/node` - Type definitions
 
 ## Project Structure
 
